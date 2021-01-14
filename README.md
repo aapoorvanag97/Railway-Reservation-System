@@ -3,7 +3,7 @@ a complete application to book tickets, It also sends email to user to confirm p
 
 
 
-note -->  Screenshots show how thw final UI looks
+note -->  Screenshots.zip shows how thw final UI looks
 
 
 
